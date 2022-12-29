@@ -5,7 +5,7 @@ sudo python3 ntpserver.py
 ```
 
 ## Victim
-Change the IP to your desired target server IP adress 
+Change the IP to your desired target server IP adress in jlogger.c
 ```
 x86_64-w64-mingw32-gcc jlogger.c -o jlogger.exe -lwsock32 -w
 ```
