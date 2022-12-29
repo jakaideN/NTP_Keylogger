@@ -9,7 +9,7 @@ Change the IP to your desired target server IP adress in jlogger.c
 ```
 x86_64-w64-mingw32-gcc jlogger.c -o jlogger.exe -lwsock32 -w
 ```
-Then throw the exe on the victim machine and just double click on it(Executable will work on background, so you cannot see anything in the screen)
+Then throw the exe on the victim machine and just double click on it (Executable will work on background, so you cannot see anything in the screen)
 
 This is how exe works:
 
